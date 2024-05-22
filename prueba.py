@@ -13,7 +13,7 @@ while not adivinado:
         #pedir al usuario que introduzca un numero 
         adivinanza = 
         int(input("34 :"))
-        
+        # desde aqui se han guardado cambios 
         intentos += 1
         #comprobar si la adivinanza es correcta 
         if adivinanza < nummero_secreto: 
